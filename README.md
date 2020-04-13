@@ -1,6 +1,6 @@
 # Python Functions
 
-Created: 04-12-20 | Modified:
+Created: 04-12-20 | Modified: 04-13-20
 
 This assignment is an individual exercise: [Directions here](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md)
 
@@ -19,7 +19,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 - [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#coins-to-cash)
 
 ## Practice: Cash to Coins
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-functions/blob/master/cash-to-coins.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#cash-to-coins)
 
 ---
