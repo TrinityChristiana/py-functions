@@ -11,7 +11,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 - [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#practice-chickenmonkey)
 
 ## Practice: Activities for Kids
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-functions/blob/master/activities-for-kids.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#practice-activities-for-kids)
 
 ## Practice: Coins to Cash
