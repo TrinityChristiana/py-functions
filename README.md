@@ -7,7 +7,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 ---
 
 ## Practice: ChickenMonkey
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-functions/blob/master/chicken-monkey.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#practice-chickenmonkey)
 
 ## Practice: Activities for Kids
